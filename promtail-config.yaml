@@ -15,4 +15,4 @@ scrape_configs:
       - localhost
     labels:
       job: wacrcraftlogs
-      __path__: /var/log/WoWCombatLog*
+      __path__: /var/log/WoWCombatLog.txt
